@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://agentbio-ai.com/sitemap.xml
