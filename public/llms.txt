@@ -1,0 +1,43 @@
+# AgentBio AI - llms.txt
+
+> LLM-readable manifest following the https://llmstxt.org spec. What we are, who we serve, what we do, and how we price it — in plain text for AI agents and answer engines.
+
+## Name & positioning
+- Product name: AgentBio AI
+- Tagline: An agent bio that builds trust in 60 seconds.
+- Domain: https://agentbio-ai.lxsaihub.com/
+- Language: English (en)
+
+## What it does
+- From your market, years, and wins, generate a first-person bio for your site, Zillow, or About page - confident, not cheesy.
+- First-person voice
+- Market positioning
+- Wins without bragging
+- Site / Zillow ready
+
+## Pricing (USD)
+- **Free** — $0 — 3 bios/mo
+- **Pro** — $15/mo — Unlimited, save history
+- Checkout: https://agentbio-ai.lxsaihub.com/api/checkout?cycle=monthly (monthly) / https://agentbio-ai.lxsaihub.com/api/checkout?cycle=yearly (yearly)
+
+## FAQ (high-signal Q&A for AI citation)
+Q1. What is AgentBio AI?
+A1. From your market, years, and wins, generate a first-person bio for your site,
+Q2. Do I need an API key?
+A2. No. The platform key runs the engine; Enterprise offers BYOK.
+Q3. How is my data used?
+A3. Only to produce your your agent. We do not train public models on it without consent.
+Q4. Can I export the result?
+A4. Yes — JSON download and clipboard on every plan.
+
+## Key pages
+- Home / landing: https://agentbio-ai.lxsaihub.com/
+- This manifest: https://agentbio-ai.lxsaihub.com/llms.txt
+
+## Integration & delivery
+- Web app (Next.js) deployed on Vercel
+- Payments via Waffo Pancake (merchant of record)
+- Analytics via Umami
+
+## Contact
+- Open the app: https://agentbio-ai.lxsaihub.com/
